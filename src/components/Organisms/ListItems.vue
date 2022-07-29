@@ -29,7 +29,6 @@ export default Vue.extend({
   created: () => {
     //this.$data.tasks = api("GET", "/tasks", "");
     console.log("jhony");
-    console.log(Vue.);
   },
 });
 </script>
